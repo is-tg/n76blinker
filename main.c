@@ -30,6 +30,6 @@ void main(void) {
 
   while (1) {
     P12 = !P12;
-    msdelay(1000);
+    msdelay(500);
   }
 }
